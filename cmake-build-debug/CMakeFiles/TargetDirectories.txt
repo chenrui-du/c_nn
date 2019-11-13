@@ -1,0 +1,4 @@
+/home/string/wksp/c_nn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/string/wksp/c_nn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/string/wksp/c_nn/cmake-build-debug/CMakeFiles/libcnn.dir
+/home/string/wksp/c_nn/cmake-build-debug/CMakeFiles/test_cnn.dir

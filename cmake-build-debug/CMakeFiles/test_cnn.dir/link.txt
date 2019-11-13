@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/test_cnn.dir/src/minst.cpp.o  -o test_cnn  -L/home/string/wksp/c_nn/lib -Wl,-rpath,/home/string/wksp/c_nn/lib liblibcnn.a 
