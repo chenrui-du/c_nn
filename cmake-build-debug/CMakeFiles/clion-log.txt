@@ -1,4 +1,0 @@
-/home/string/Downloads/clion-2019.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /home/string/wksp/c_nn
--- Configuring done
--- Generating done
--- Build files have been written to: /home/string/wksp/c_nn/cmake-build-debug

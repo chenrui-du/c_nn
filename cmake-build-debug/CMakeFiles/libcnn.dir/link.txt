@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblibcnn.a  CMakeFiles/libcnn.dir/src/minst.cpp.o
-/usr/bin/ranlib liblibcnn.a
